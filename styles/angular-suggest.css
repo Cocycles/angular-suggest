@@ -1,0 +1,12 @@
+#angular-suggest-container {
+  position: relative;
+}
+
+#angular-suggest-container input {
+  background-color: transparent;
+}
+
+#angular-suggest-container #angular-suggest-suggestion-input {
+  z-index: -100;
+  position: absolute;
+}
